@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "さくらんぼ（Original）",
   "base_artist": "大塚 愛",
-  "createdAt": "2026-02-17T08:43:34.887556Z",
+  "createdAt": "2026-03-13T07:25:53.863353Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,14 @@
       "artist": "大塚 愛",
       "has_synced": true,
       "path": "select/03_さくらんぼ(Original)_大塚_愛.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "さくらんぼ(Original)",
+      "artist": "大塚愛",
+      "has_synced": true,
+      "path": "select/04_さくらんぼ(Original)_大塚愛.lrc"
     },
     {
       "id": "petitlyrics_1",
